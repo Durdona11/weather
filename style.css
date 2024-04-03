@@ -54,9 +54,6 @@
     background-color: lime;
   }
   
-  .btn-two {
-    background-color: magenta;
-  }
   .btn:hover{
     animation: btn-animation 0.15s linear alternate infinite;
   }
